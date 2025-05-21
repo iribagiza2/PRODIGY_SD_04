@@ -1,5 +1,3 @@
-# PRODIGY_SD_04
-
 # Sudoku Solver
 
 This program solves Sudoku puzzles automatically using the backtracking algorithm.
